@@ -6,4 +6,3 @@ bg_image: "images/featue-bg.jpg"
 ---
 
 
-yo mamayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
