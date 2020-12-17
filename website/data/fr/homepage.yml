@@ -13,11 +13,13 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "Le montage vidéo"
-  description : "Enregistrement, édition, publication."
-  content : "Le montage vidéo est une forme d'art plus technique. Pour être excellent, il est important de bien maîtriser les bases pour faire des vidéos efficacement. 
-  Dans ce guide pour débutant, je vais parler de...<br> *(subject to change)"
-  image : "images/wrapper-img.png"
+  title : "La Créativité"
+  description : "Le chemin vers ..."
+  content : "La créativité n'est pas que le fait d'avoir de l'imagination, la créativité est une facette de notre personnalité. 
+  Il est important de travailler et developper celle-ci pour atteindre une vie épanouissante et productive. Pardessus tout, 
+  important pour les travailleurs de demain. Avec les avancements dans l'automatisation, il sera desormait important ressortir
+  de la foule, et  "
+  image : ""
 
 
 ######################### Portfolio ###############################
