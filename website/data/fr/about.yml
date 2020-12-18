@@ -3,7 +3,7 @@ about:
   enable : true
   image : "images/company/about.jpg"
   title : "Plus sur moi"
-  content : "yo mama"
+  content : ""
 
   button:
     enable : false

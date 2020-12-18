@@ -2,8 +2,8 @@
 title: "Effets spéciaux"
 description: "Effets spéciaux pour capté l'attention"
 draft: false
-image : "images/portfolio/work4.jpg"
-bg_image: "images/test/greenscreenphone.jpg"
+image : "images/test/greenscreenphone.jpg"
+bg_image: "images/featue-bg.jpg"
 category: "Montage"
 information:
   - label : "Client"
