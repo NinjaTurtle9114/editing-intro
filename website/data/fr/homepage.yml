@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/test/timeline.png"
+  bg_image : "images/timeline2.jpg"
   bg_overlay : true
   title : "Introduction au montage <br> vidéo"
   content : "Guide pour débutant"
@@ -21,7 +21,10 @@ about:
   trouver des solutions la ou les machine ne pourrons pas.
   
 
-  Pour travailler et développer sa créativité, un bon loisir est le montage vidéo. Dans le montage vidéo,"
+  Pour travailler et développer sa créativité, un bon loisir est le montage vidéo. Dans le edition vidéo, il faut être inovateur
+  afin de résoudre les problèmes que l'on rencontre durant le tournage ou durant l'édition. Cela est pourquoi j'ai fait un guide
+  pour les débutants dans le montage vidéo, qui va enseigner les bases que je pense importantes afin d'avoir plus de facilité a 
+  faire des vidéos de hautes qualités."
   image : "images/test/create.jpg"
 
 
@@ -30,18 +33,10 @@ portfolio:
   enable : true
   bg_image : "images/featue-bg.jpg"
   title : "WE BELIEVE IN GREAT IDEAS"
-  content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-  "
+  content : " "
   button:
     enable : true
-    label : "View Works"
+    label : "Voir guide"
     link : "project"
 
 

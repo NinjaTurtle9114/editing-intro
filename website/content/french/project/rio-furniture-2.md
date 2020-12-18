@@ -1,6 +1,6 @@
 ---
-title: "Timeline"
-description: "Plus en apprendre sur la timeline"
+title: "Avant le montage"
+description: "Choses à savoir avant de faire le montage"
 draft: false
 image : "images/portfolio/work2.jpg"
 bg_image: "images/featue-bg.jpg"
