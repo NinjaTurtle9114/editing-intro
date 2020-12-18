@@ -1,6 +1,6 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Couleur"
+description: "Plus en apprendre sur les couleurs et leurs importance"
 draft: false
 image : "images/portfolio/work6.jpg"
 bg_image: "images/featue-bg.jpg"

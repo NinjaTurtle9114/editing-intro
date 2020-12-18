@@ -1,6 +1,6 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Audio"
+description: "Qualité du sons"
 draft: false
 image : "images/portfolio/work5.jpg"
 bg_image: "images/featue-bg.jpg"

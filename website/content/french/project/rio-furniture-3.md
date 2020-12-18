@@ -1,6 +1,6 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Termes communs"
+description: "Plusieurs termes importants"
 draft: false
 image : "images/portfolio/work3.jpg"
 bg_image: "images/featue-bg.jpg"

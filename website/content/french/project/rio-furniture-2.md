@@ -1,6 +1,6 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Timeline"
+description: "Plus en apprendre sur la timeline"
 draft: false
 image : "images/portfolio/work2.jpg"
 bg_image: "images/featue-bg.jpg"

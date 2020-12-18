@@ -1,6 +1,6 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Effets spéciaux"
+description: "Effets spéciaux pour capté l'attention"
 draft: false
 image : "images/portfolio/work4.jpg"
 bg_image: "images/featue-bg.jpg"
