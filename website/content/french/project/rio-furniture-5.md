@@ -1,10 +1,10 @@
 ---
-title: "Audio"
+title: "Audio et Couleur"
 description: "Qualité du sons"
 draft: false
 image : "images/portfolio/work5.jpg"
 bg_image: "images/featue-bg.jpg"
-category: "Illustration"
+category: "Qualité vidéo"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

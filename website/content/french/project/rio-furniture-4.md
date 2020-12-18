@@ -3,8 +3,8 @@ title: "Effets spéciaux"
 description: "Effets spéciaux pour capté l'attention"
 draft: false
 image : "images/portfolio/work4.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "UI/UX Design"
+bg_image: "images/test/greenscreenphone.jpg"
+category: "Montage"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

@@ -1,10 +1,10 @@
 ---
-title: "Couleur"
-description: "Plus en apprendre sur les couleurs et leurs importance"
+title: "Ordinateur et logiciel de montage vidéo"
+description: "Recommandation sur quoi utiliser"
 draft: false
 image : "images/portfolio/work6.jpg"
 bg_image: "images/featue-bg.jpg"
-category: "Video"
+category: "Matériel"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

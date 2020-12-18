@@ -4,7 +4,7 @@ description: "comment faire un vidéo smooth"
 draft: false
 image : "images/portfolio/work1.jpg"
 bg_image: "images/featue-bg.jpg"
-category: "UI/UX Design"
+category: "Montage"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
@@ -20,7 +20,7 @@ information:
     info : "Jannie Kelonsky"
 ---
 
-## Behance Website Redesign
+## Transitions
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate

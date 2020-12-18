@@ -267,34 +267,6 @@ name = "Projet"
 URL = "project"
 weight = 3
 
-[[Languages.fr.menu.main]]
-name = "**remove**"
-URL = "blog"
-weight = 4
-
-[[Languages.fr.menu.main]]
-weight = 5
-name = "*remove*"
-hasChildren = true
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Tarification"
-  URL = "pricing"
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Un service"
-  URL = "service"
-  
-
-
-
 # footer menu
 [[Languages.fr.menu.footer]]
 name = "About Me"
