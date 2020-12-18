@@ -14,7 +14,7 @@ banner:
 about:
   enable : true
   title : "La Créativité"
-  description : "Un chemin vers le future"
+  description : "Le chemin du future"
   content : "La créativité n'est pas que le fait d'avoir de l'imagination, la créativité est une facette de notre personnalité. 
   Il est important de travailler et développer celle-ci pour atteindre une vie épanouissante et productive. Pardessus tout, 
   important pour les travailleurs de demain. Avec les avancements dans l'automatisation, il sera désormais important de pouvoir
@@ -32,8 +32,11 @@ about:
 portfolio:
   enable : true
   bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
-  content : " "
+  title : "DÉCOUVRIR MON PROJET"
+  content : "Dans ce guide, vous aller plus en apprendre sur sujet principale. Tout d'abord le **montage**, la ou vous  
+  pouzez être informés sur quoi faire avant le montage, des effets, transition, etc. Ensuite, il est important que les vidéos 
+  soient de **hautes qualitées**, donc qui on un bonne audio et de belle images. Finalement, afin de pouvoir crée nos vidéos,
+  il faut savoir plus sur le **matériel**, et donc sur les ordinateurs et les logiciels de montage vidéos."
   button:
     enable : true
     label : "Voir guide"
