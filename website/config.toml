@@ -151,7 +151,94 @@ icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
 
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 0
+# copyright
+copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 
+
+######################### english navigation #############################
+# main menu
+[[Languages.en.menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "About"
+URL = "about"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Project"
+URL = "project"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 4
+
+[[Languages.en.menu.main]]
+weight = 5
+name = "Pages"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "FAQ"
+  URL = "faq"
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "Pricing"
+  URL = "pricing"
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "Service"
+  URL = "service"
+  
+[[Languages.en.menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 6
+
+
+# footer menu
+[[Languages.en.menu.footer]]
+name = "About"
+URL = "about"
+weight = 1
+
+[[Languages.en.menu.footer]]
+name = "Project"
+URL = "project"
+weight = 2
+
+[[Languages.en.menu.footer]]
+name = "Service"
+URL = "service"
+weight = 3
+
+[[Languages.en.menu.footer]]
+name = "Pricing"
+URL = "pricing"
+weight = 4
+
+[[Languages.en.menu.footer]]
+name = "FAQ"
+URL = "faq"
+weight = 5
+
+[[Languages.en.menu.footer]]
+name = "Contact"
+URL = "contact"
+weight = 6
 
 ################################ France Language ########################
 [Languages.fr]
