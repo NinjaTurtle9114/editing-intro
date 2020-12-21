@@ -18,14 +18,14 @@ about:
   content : "La créativité n'est pas que le fait d'avoir de l'imagination, la créativité est une facette de notre personnalité. 
   Il est important de travailler et développer celle-ci pour atteindre une vie épanouissante et productive. Pardessus tout, 
   important pour les travailleurs de demain. Avec les avancements dans l'automatisation, il sera désormais important de pouvoir
-  trouver des solutions la ou les machine ne pourrons pas.
+  trouver des solutions là ou les machines ne pourront pas.
   
 
-  Pour travailler et développer sa créativité, un bon loisir est le montage vidéo. Dans le edition vidéo, il faut être inovateur
+  Pour travailler et développer sa créativité, un bon loisir est le montage vidéo. Dans l'edition vidéo, il faut être innovateur
   afin de résoudre les problèmes que l'on rencontre durant le tournage ou durant l'édition. Cela est pourquoi j'ai fait un guide
   pour les débutants dans le montage vidéo, qui va enseigner les bases que je pense importantes afin d'avoir plus de facilité a 
   faire des vidéos de hautes qualités."
-  image : "images/test/create.jpg"
+  image : "images/wrapper-img.png"
 
 
 ######################### Portfolio ###############################
@@ -33,10 +33,10 @@ portfolio:
   enable : true
   bg_image : "images/featue-bg.jpg"
   title : "DÉCOUVRIR MON PROJET"
-  content : "Dans ce guide, vous aller plus en apprendre sur sujet principale. Tout d'abord le **montage**, la ou vous  
-  pouzez être informés sur quoi faire avant le montage, des effets, transition, etc. Ensuite, il est important que les vidéos 
-  soient de **hautes qualitées**, donc qui on un bonne audio et de belle images. Finalement, afin de pouvoir crée nos vidéos,
-  il faut savoir plus sur le **matériel**, et donc sur les ordinateurs et les logiciels de montage vidéos."
+  content : "Dans ce guide, vous allez plus en apprendre sur sujet principal. Tout d'abord le **montage**, la ou vous  
+  pouvez être informés sur quoi faire avant le montage, des effets, transition, etc. Ensuite, il est important que les vidéos 
+  soient de **hautes qualités**, donc qui on un bon audio et de belle images. Finalement, afin de pouvoir créer nos vidéos,
+  il faut savoir plus sur le **matériel**, et donc sur les ordinateurs et les logiciels de montage vidéo."
   button:
     enable : true
     label : "Voir guide"
