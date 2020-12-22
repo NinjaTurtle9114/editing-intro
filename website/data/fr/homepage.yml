@@ -15,16 +15,16 @@ about:
   enable : true
   title : "La Créativité"
   description : "Le chemin du future"
-  content : "La créativité n'est pas que le fait d'avoir de l'imagination, la créativité est une facette de notre personnalité. 
-  Il est important de travailler et développer celle-ci pour atteindre une vie épanouissante et productive. Pardessus tout, 
-  important pour les travailleurs de demain. Avec les avancements dans l'automatisation, il sera désormais important de pouvoir
-  trouver des solutions là ou les machines ne pourront pas.
-  
+  content : "La créativité n’est pas le fait de seulement avoir de l’imagination, la créativité est une façon de penser, qui montre notre 
+  personnalité. Il est extrêmement important et travaillé afin de développer celle-ci, tout au long de sa vie. Par-dessus tout,
+  il est avantageux d’être créatif pour les ouvriers de demain. Avec les avancements rapides de l’automatisation, l'humain va 
+  désormais devoir trouver des solutions, la ou les machines ne peuvent pas.
+
 
   Pour travailler et développer sa créativité, un bon loisir est le montage vidéo. Dans l'edition vidéo, il faut être innovateur
   afin de résoudre les problèmes que l'on rencontre durant le tournage ou durant l'édition. Cela est pourquoi j'ai fait un guide
   pour les débutants dans le montage vidéo, qui va enseigner les bases que je pense importantes afin d'avoir plus de facilité a 
-  faire des vidéos de hautes qualités."
+  faire des vidéos de haute qualité."
   image : "images/wrapper-img.png"
 
 
@@ -33,10 +33,10 @@ portfolio:
   enable : true
   bg_image : "images/featue-bg.jpg"
   title : "DÉCOUVRIR MON PROJET"
-  content : "Dans ce guide, vous allez plus en apprendre sur sujet principal. Tout d'abord le **montage**, la ou vous  
-  pouvez être informés sur quoi faire avant le montage, des effets, transition, etc. Ensuite, il est important que les vidéos 
-  soient de **hautes qualités**, donc qui on un bon audio et de belle images. Finalement, afin de pouvoir créer nos vidéos,
-  il faut savoir plus sur le **matériel**, et donc sur les ordinateurs et les logiciels de montage vidéo."
+  content : "Dans ce guide, vous allez en apprendre plus sur le montage vidéo. Le guide est séparé en trois sections, tout 
+  d’abord sur le **montage**, ensuite sur la **qualité vidéo**, et finalement sur le **matériel** pour faire du montage vidéo. 
+  La première sectiondéveloppe sur les transitions et effets, la deuxième sur comment avoir une bonne qualité d’images et un  
+  bon audio.  Finalement, la dernière partie se concentre plus sur les logiciels et ordinateurs pour le montage vidéo."
   button:
     enable : true
     label : "Voir guide"
@@ -45,7 +45,7 @@ portfolio:
 
 ############################# Service ############################
 service:
-  enable : true
+  enable : false
   # service content comes from "data/*/service.yml" file
 
 

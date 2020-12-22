@@ -1,6 +1,6 @@
 ---
 title: "Transition"
-description: "comment faire un vidéo smooth"
+description: "Comment faire un vidéo avec une bonne chronologie"
 draft: false
 image : "images/portfolio/work1.jpg"
 bg_image: "images/featue-bg.jpg"
