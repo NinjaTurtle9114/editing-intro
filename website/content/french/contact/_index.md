@@ -1,6 +1,6 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
+title: "Laisser Moi Un Commentaire"
+description: ""
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---

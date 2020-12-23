@@ -247,7 +247,7 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 **Simon Parent** "
 
 
 ######################### france navigation #############################
@@ -277,11 +277,6 @@ weight = 1
 name = "Projet"
 URL = "fr/project"
 weight = 2
-
-[[Languages.fr.menu.footer]]
-name = "FAQ"
-URL = "fr/faq"
-weight = 5
 
 [[Languages.fr.menu.footer]]
 name = "Contact"
