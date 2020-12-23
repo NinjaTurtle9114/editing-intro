@@ -35,8 +35,11 @@ portfolio:
   title : "DÉCOUVRIR MON PROJET"
   content : "Dans ce guide, vous allez en apprendre plus sur le montage vidéo. Le guide est séparé en trois sections, tout 
   d’abord sur le **montage**, ensuite sur la **qualité vidéo**, et finalement sur le **matériel** pour faire du montage vidéo. 
-  La première sectiondéveloppe sur les transitions et effets, la deuxième sur comment avoir une bonne qualité d’images et un  
-  bon audio.  Finalement, la dernière partie se concentre plus sur les logiciels et ordinateurs pour le montage vidéo."
+  La première section développe sur les transitions et effets, la deuxième sur comment avoir une bonne qualité d’images et un  
+  bon audio. 
+  
+  
+  Finalement, la dernière partie se concentre plus sur les logiciels et ordinateurs pour le montage vidéo."
   button:
     enable : true
     label : "Voir guide"
@@ -51,7 +54,7 @@ service:
 
 ############################ call to action ###########################
 cta:
-  enable : true
+  enable : false
   bg_image : "images/call-to-action-bg.jpg"
   title : "We design delightful digital experiences."
   content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
@@ -62,7 +65,7 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable : true
+  enable : false
   title : "Fun Facts About Us"
   description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"

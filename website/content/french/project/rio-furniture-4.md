@@ -23,4 +23,15 @@ information:
 ## Les Éffets Spéciaux
 
 Les effets spéciaux sont ce qui rend une vidéo unique. Ils permettent 
-![alt text](https://pocket-syndicated-images.s3.amazonaws.com/5f4d0e39647f6.jpg "Logo Title Text 1")
+
+
+
+
+
+
+
+
+
+
+
+![alt text]( "Logo Title Text 1")

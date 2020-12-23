@@ -269,31 +269,21 @@ weight = 3
 
 # footer menu
 [[Languages.fr.menu.footer]]
-name = "About Me"
-URL = "about"
+name = "A Propos De Moi"
+URL = "fr/about"
 weight = 1
 
 [[Languages.fr.menu.footer]]
-name = "Project"
-URL = "project"
+name = "Projet"
+URL = "fr/project"
 weight = 2
 
 [[Languages.fr.menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[Languages.fr.menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
-
-[[Languages.fr.menu.footer]]
 name = "FAQ"
-URL = "faq"
+URL = "fr/faq"
 weight = 5
 
 [[Languages.fr.menu.footer]]
 name = "Contact"
-URL = "contact"
+URL = "fr/contact"
 weight = 6
