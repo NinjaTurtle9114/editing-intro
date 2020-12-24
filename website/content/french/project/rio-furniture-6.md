@@ -2,7 +2,7 @@
 title: "Ordinateur et logiciel de montage vidéo"
 description: "Recommandation sur quoi utiliser"
 draft: false
-image : "images/portfolio/work6.jpg"
+image : "images/portfolio/gpu_hardware.jpg"
 bg_image: "images/featue-bg.jpg"
 category: "Matériel"
 information:

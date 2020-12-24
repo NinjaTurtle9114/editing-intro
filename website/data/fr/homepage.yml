@@ -31,7 +31,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/featue-bg.jpg"
+  bg_image : "images/keyboard1.jpg"
   title : "DÉCOUVRIR MON PROJET"
   content : "Dans ce guide, vous allez en apprendre plus sur le montage vidéo. Le guide est séparé en trois sections, tout 
   d’abord sur le **montage**, ensuite sur la **qualité vidéo**, et finalement sur le **matériel** pour faire du montage vidéo. 

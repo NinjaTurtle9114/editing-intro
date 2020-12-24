@@ -2,8 +2,8 @@
 title: "Audio et Couleur"
 description: "Qualité du sons"
 draft: false
-image : "images/portfolio/work5.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/portfolio/mic2.jpg"
+bg_image: "images/keyboard1.jpg"
 category: "Qualité vidéo"
 information:
   - label : "Client"
