@@ -2,7 +2,7 @@
 title: "Avant le montage"
 description: "Choses à savoir avant de faire le montage"
 draft: false
-image : "images/portfolio/work2.jpg"
+image : "images/portfolio/mouse.jpg"
 bg_image: "images/featue-bg.jpg"
 category: "Montage"
 information:
