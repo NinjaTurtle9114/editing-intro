@@ -3,7 +3,7 @@ title: "Transition"
 description: "Comment faire un vidéo avec une bonne chronologie"
 draft: false
 image : "images/portfolio/transition_timeline.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/keyboard1.jpg"
 category: "Montage"
 information:
   - label : "Client"

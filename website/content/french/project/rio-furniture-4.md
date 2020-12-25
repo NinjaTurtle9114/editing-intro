@@ -3,7 +3,7 @@ title: "Effets spéciaux"
 description: "Effets spéciaux pour capté l'attention"
 draft: false
 image : "images/portfolio/greenscreenphone.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/keyboard1.jpg"
 category: "Montage"
 information:
   - label : "Client"
