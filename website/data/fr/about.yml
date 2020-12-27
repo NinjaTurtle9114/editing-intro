@@ -2,48 +2,25 @@
 about:
   enable : true
   image : "images/about me/chat.jpg"
-  title : "Plus sur moi"
-  content : ""
+  title : "Pourquoi ai-je fais un guide sur le montage"
+  content : "J'ai fait une guide sur le montage vidéo, car cela est un sujet qui me passion. Depuis un jeune âge,
+  je regarde des vidéos de plusieurs créateurs sur YouTube. En grandissant, j'ai toujours voulu faire mes propres 
+  vidéos dans le but de divertir et faire rire les spectateurs. Après avoir fait une vidéo pour un projet d'école,
+  j'ai commencé à faire mes propres vidéos et à les publier. Je ne suis aucunement un professionnel de l'édition
+  vidéo, mais je pensais simplement que faire un petit guide gratuit pour les débutants pourrait peut être aidé quelque personnes.
+  
+
+  *La photo est mon chat*"
 
   button:
     enable : false
     label : "Download Company Profile"
     link : "#"
 
-  funfacts:
-    # funfacts loop
-    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Completed Projects"
-      count : "0"
-      
-    # funfacts loop
-    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Lines Of Code"
-      count : "0"
-      
-    # funfacts loop
-    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
-      count : "0"
-      
-    # funfacts loop
-    - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
-      count : "0"
-      
-    # funfacts loop
-    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
-      count : "0"
-      
-    # funfacts loop
-    - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
-      count : "0"
-      
+
 ################################ feature #####################################
 features:
-  enable : true
+  enable : false
   title : "We are indepented Design & Development Agency"
   feature_item:
     # feature item loop
@@ -79,44 +56,13 @@ features:
 
 #################################### testimonial & mission vision #######################################
 testimonial:
-  enable : true
+  enable : false
   # testimonial content comes from "data/*/homepage.yml" file
 
 mission_vision:
-  enable : true
+  enable : false
   tabs:
-    # tab item loop
-    - name : "Vision"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
-      
-    # tab item loop
-    - name : "Mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
-      
-    # tab item loop
-    - name : "Approach"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
+   
 
 
 ############################# call to action #################################

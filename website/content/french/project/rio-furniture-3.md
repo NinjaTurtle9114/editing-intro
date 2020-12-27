@@ -1,6 +1,6 @@
 ---
 title: "Termes communs"
-description: "Plusieurs termes importants"
+description: "Plusieurs termes importants dans l'édition vidéo"
 draft: false
 image : "images/portfolio/work3.jpg"
 bg_image: "images/keyboard1.jpg"
