@@ -56,7 +56,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable : false
-  bg_image : "images/call-to-action-bg.jpg"
+  bg_image : "images/cpu.jpg"
   title : "Pour Plus En Savoir"
   content : "Si vous voulez en apprendre plus sur moi ou sur le montage vidéo"
   button:
