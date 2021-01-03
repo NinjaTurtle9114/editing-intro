@@ -1,6 +1,6 @@
 ---
 title: "Termes communs"
-description: "Plusieurs termes importants dans l'édition vidéo"
+description: "Plusieurs termes importants sur l'édition vidéo"
 draft: false
 image : "images/portfolio/work3.jpg"
 bg_image: "images/keyboard1.jpg"
@@ -32,9 +32,9 @@ Ces termes son utile à savoir, surtout lorsque l'on fait de la recherche afin d
 
 **4. Frame Rate (Fréquence d'images) :** La **Frame Rate**, aussi appelé **Refresh rate**, est comme le dit le nom, la fréquence à laquelle un dispositif montre un nombre d'images chaque seconde. Donc 30 Fps (frames per second) veulent dire que la vidéo montre 30 fois une image chaque seconde. Des fréquences communes sont 30, 60, 90, 120, 240 et l'affichage peut également être nommé en Hertz. Donc, plus le nombre d'images par seconde est élevé, plus la vidéo partait fluide.
 
-**5. Transition :** Les **transitions** sont une partie essentielle à une bonne vidéo. Les transitions permettent de faire avancer l'histoire d'une vidéo avec un bon rythme, et de garder l'attention du spectateur. Il y a plusieurs types de transition, par exemple, des transitions simple comme des **Jump cut**, des **L-Cut** et **J-Cut** ou encore simplement un **Fade out**. Toutes ces transitions permettent de jouer avec l'audio et le vidéo, afin de faire avancer l'histoire facilement. On peut aussi avoir des transitions plus avancées, par l'utilisation d'effets spéciaux, comme des écrans verts. [***Pour plus en apprendre sur les transition***](/fr/project/rio-furniture-1/)
+**5. Transition :** Les **transitions** sont une partie essentielle à une bonne vidéo. Les transitions permettent de faire avancer l'histoire d'une vidéo avec un bon rythme, et de garder l'attention du spectateur. Il y a plusieurs types de transition, par exemple, des transitions simple comme des **Jump cut**, des **L-Cut** et **J-Cut** ou encore simplement un **Fade out**. Toutes ces transitions permettent de jouer avec l'audio et le vidéo, afin de faire avancer l'histoire facilement. On peut aussi avoir des transitions plus avancées, par l'utilisation d'effets spéciaux, comme des écrans verts. [***Plus sur les transition***](/fr/project/rio-furniture-1/)
 
-**6. Correction de Couleur :** La couleur est extrêmement important dans toute forme de cinématographie. Avec de bonnes couleurs au bon moment, l'audience peut relier les couleurs avec certaines émotions. Donc avec les couleurs, il est possible de faire une belle vidéo, qui fait ressentir une multitude d'émotions aux spectateurs. La correction de couleur est donc obligatoire pour avoir une bonne vidéo, qui est le principe d'ajuster les couleurs durant le montage. [***Pour plus en apprendre sur les couleurs***](/fr/project/rio-furniture-5/)
+**6. Correction de Couleur :** La couleur est extrêmement important dans toute forme de cinématographie. Avec de bonnes couleurs au bon moment, l'audience peut relier les couleurs avec certaines émotions. Donc avec les couleurs, il est possible de faire une belle vidéo, qui fait ressentir une multitude d'émotions aux spectateurs. La correction de couleur est donc obligatoire pour avoir une bonne vidéo, qui est le principe d'ajuster les couleurs durant le montage. [***Plus sur les couleurs***](/fr/project/rio-furniture-5/)
 
 **7.  :**  
 
