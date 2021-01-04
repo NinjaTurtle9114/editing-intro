@@ -36,5 +36,6 @@ Ces termes son utile à savoir, surtout lorsque l'on fait de la recherche afin d
 
 **6. Correction de Couleur :** La couleur est extrêmement important dans toute forme de cinématographie. Avec de bonnes couleurs au bon moment, l'audience peut relier les couleurs avec certaines émotions. Donc avec les couleurs, il est possible de faire une belle vidéo, qui fait ressentir une multitude d'émotions aux spectateurs. La correction de couleur est donc obligatoire pour avoir une bonne vidéo, qui est le principe d'ajuster les couleurs durant le montage. [***Plus sur les couleurs***](/fr/project/rio-furniture-5/)
 
-**7.  :**  
+**7. Compression vidéo :**  La compression vidéo est le processus que fait un ordinateur afin de réduire la quantité d'information dans une vidéo. Le principe est de transformer une suite de **bits** "X" en des bits "Y" des bits plus courts qui contiennent les mêmes informations. La compression permet donc de faire en sorte que publier une vidéo prend moins de temps, les les ficher prennent moins d'espace, au cout du temps que les ficher prennent à se compresser. Il est souvent recommandé de compresser les ficher pour rendre le montage plus simple, mais il ce n'est pas obligatoire. [***Plus sur la compression et les ordinateur***](/fr/project/rio-furniture-6/)
 
+**8. 
