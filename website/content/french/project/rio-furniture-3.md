@@ -70,10 +70,14 @@ Le B-roll et le A-roll sont deux transitions très utiles. Le A-roll est "le pla
 
 Pour essaye de bien expliquer, disons que quelqu'un parle des abeilles. Le A-roll pourrait être la personne qui explique quelque chose, et une fois de temps en temps, il y a une transition vers le B-roll qui montre des abeilles, qui montre de quoi on parle. Bien sûr il y a plusieurs formes différentes de B-rolls, ceux-ci peuvent être durant la vidéo ou encore après, mais le principe reste le même.
 
-**10 :**
+**10 Effets Spéciaux :**
 
-yoyoyo
+Des effets spéciaux sont des techniques lors du montage d'une vidéo ou d'un fil qui ont comme but de montrer quelque chose qui n'est pas vraiment là. Ce sont des illusions et des effets pour changer l'arrière-plan, ou ajouter des caractéristiques à un personnage, ou même enlever quelque chose totalement. Des animations dans certain vidéo pourrait aussi être considéré comme des effets spéciaux, comme des films qui utilise du "CJI" afin de créer des personnages qui ne sont pas vraiment la. 
+
+Afin de faire en sorte que les effets spéciaux semblent réels, on utilise souvent des écrans verts, qui son des murs d'une seule couleur (souvent vert), pour rendre l'intégration de quelque chose qui n'ai pas vraiment la, semble réelle.
+
+Si vous ne fait que commencer le montage vidéo, je ne recommande pas d'essaye de faire trop d'effet spécial, car tout d'épandaient de la qualité de votre montage, logiciel et caméra, les effets ne vont pas avoir l'air réelle. Par contre, des choses simples comme un écran vert, peu grandement élevez vos vidéos, si cela est dans votre budget.
 
 <br>
 
-Il y a bien sûr plusieurs autres mots qui sont importants dans le montage vidéo, mais pour un débutant, je pense que savoir ce que j'ai nommé sévère pratique lorsque l'on fait un peu de recherche.
+*Il y a bien sûr plusieurs autres mots qui sont importants dans le montage vidéo, mais pour un débutant, je pense que savoir ce que j'ai nommé sévère pratique lorsque l'on fait un peu de recherche.*
