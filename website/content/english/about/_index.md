@@ -1,6 +1,8 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
+title: "Introduction au montage video"
+description: "Plus Sur Moi"
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/keyboard1.jpg"
 ---
+
+

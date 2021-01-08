@@ -10,7 +10,7 @@ summaryLength = "30"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = "En"
+disableLanguages = "Fr"
 
 ################################# Outputs #################################
 # hugo outputs
@@ -155,130 +155,41 @@ link = "#"
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
-contentDir = "content/english"
-weight = 0
-# copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-
-
-######################### english navigation #############################
-# main menu
-[[Languages.en.menu.main]]
-name = "Home"
-URL = "/"
-weight = 1
-
-[[Languages.en.menu.main]]
-name = "About"
-URL = "about"
-weight = 2
-
-[[Languages.en.menu.main]]
-name = "Project"
-URL = "project"
-weight = 3
-
-[[Languages.en.menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 4
-
-[[Languages.en.menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Service"
-  URL = "service"
-  
-[[Languages.en.menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 6
-
-
-# footer menu
-[[Languages.en.menu.footer]]
-name = "About"
-URL = "about"
-weight = 1
-
-[[Languages.en.menu.footer]]
-name = "Project"
-URL = "project"
-weight = 2
-
-[[Languages.en.menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[Languages.en.menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
-
-[[Languages.en.menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
-
-[[Languages.en.menu.footer]]
-name = "Contact"
-URL = "contact"
-weight = 6
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 1
 # copyright
 copyright = "Copyright &copy; 2020 **Simon Parent** "
 
 
-######################### france navigation #############################
+######################### english navigation #############################
 # main menu
-[[Languages.fr.menu.main]]
-name = "Accueil"
+[[Languages.en.menu.main]]
+name = "Acceuil"
 URL = "/"
 weight = 1
 
-[[Languages.fr.menu.main]]
+[[Languages.en.menu.main]]
 name = "À propos de moi"
 URL = "about"
 weight = 2
 
-[[Languages.fr.menu.main]]
+[[Languages.en.menu.main]]
 name = "Projet"
 URL = "project"
 weight = 3
 
 # footer menu
-[[Languages.fr.menu.footer]]
-name = "A Propos De Moi"
-URL = "fr/about"
+[[Languages.en.menu.footer]]
+name = "About"
+URL = "about"
 weight = 1
 
-[[Languages.fr.menu.footer]]
-name = "Projet"
-URL = "fr/project"
+[[Languages.en.menu.footer]]
+name = "Project"
+URL = "project"
 weight = 2
 
-[[Languages.fr.menu.footer]]
+[[Languages.en.menu.footer]]
 name = "Contact"
-URL = "fr/contact"
-weight = 6
+URL = "contact"
+weight = 3
