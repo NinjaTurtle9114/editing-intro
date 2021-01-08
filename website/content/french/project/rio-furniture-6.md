@@ -32,8 +32,10 @@ Alors, voici une liste de plusieurs logiciel populaire pour le montage vidéo re
 
 Premiere est l'un ou le logiciel le plus utilisé dans le montage vidéo pour plusieurs raisons. Tout d'abord, simplement le fait qu'il y ait beaucoup de gens qui l'utilise, il y a pleins d'effets et de raccourcis gratuits ou payants sur internet qui sont extrêmement pratiques. De plus Premiere est disponible sur sur Mac et Windows, contrairement à Final Cut. Sinon, l'application est simplement très bien faite. Pratiquement tout est disponible et les possibilités sont sans fin. Le programme est rapide et bien optimisé, et il est possible d'ajouter plusieurs Macros (des raccourcis) pour rendre son travail efficace. Finalement, le fait que Premiere soit relier avec Photoshop, After Effects, et toutes les autres applications faites par Adobe, ce qui rend l'exportation entre applications faciles, est un autre aspect fort du logiciel. Le désavantage est que toutes les applications d’Adobe sont payantes par mois. Donc pour être abonné a Premiere pour un long temps, est très dispendieux. En résumé, c'est un application extrèmenent utile, si vous etes capable de vous le permettre.
 
-**2. Final Cut Pro :**
-Final Cut Pro est un équivalent à Premiere, qui est seulement disponible sur mac OS, fait par Apple. 
+**2. Final Cut Pro X :**
+Final Cut Pro (2009), ou Final Cut Pro X (2011) est un expérience similaire à Premiere, qui par contre est seulement disponible sur mac OS. Final Cut Pro, fait par Apple, est un logiciel de montage vidéo populaire et très bien reconnue. Pour y avoir accès, il faut payer une liscence d'une bonne somme (environs 399,99 CAD), ce qui donne accès à l'application pour une durée illimité. Cela donne accès à la version que vous avez acheter pour toutjours, mais pas aux versions future. 
+
+
 
 
 
