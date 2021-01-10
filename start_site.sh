@@ -1,3 +1,3 @@
 # To start my site
 cd website/;
-hugo server --themesDir ../
+hugo server -p 51000 --themesDir ../

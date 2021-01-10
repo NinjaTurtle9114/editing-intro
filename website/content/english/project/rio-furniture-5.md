@@ -1,13 +1,13 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Audio et Couleur"
+description: "Qualité du sons et des couleurs"
 draft: false
-image : "images/portfolio/work5.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "Illustration"
+image : "images/portfolio/mic2.jpg"
+bg_image: "images/keyboard1.jpg"
+category: "Qualité vidéo"
 information:
   - label : "Client"
-    info : "Jannie Kelonsky"
+    info : "yo mama"
   - label : "What We Did"
     info : "Website Redesign"
   - label : "Tools Used"
@@ -20,32 +20,21 @@ information:
     info : "Jannie Kelonsky"
 ---
 
-## Behance Website Redesign
+## La Couleur
+De base, la couleur d'une vidéo ne semble pas important, mais rappeler vous la dernière fois ou vous avez vue une photo ou une vidéo, ou les couleurs semblait tous soit grises ou encore trop sombre. La couleur est l'un des aspects les plus importants dans une vidéo, mais aussi un aspect souvent négligé. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+Donc, pourquoi les couleurs sont telles s’y important? Tout d'abord, elles permettent au spectateur de comprendre plus loin que les actions et le dialogue de la vidéo. Les couleurs peuvent créer une ambiance et des émotions, afin de mieux atteindre l'audience. Par exemple, la couleur rouge peut faire penser à de la chaleur, l'amour ou encore quelque chose de mal. Il est possible d'aussi utiliser celles-ci pour faire regarder quelque part. Les humains on comme réflexe d'être plus attirer par des couleurs vive, donc avec une bonne nuance de couleur, il est plus facile d'accentuer certain parti de l'écran. Finalement, il faut que les couleurs soient de la bonne intensité, pas trop éclatant, ni trop terne. Il faut simplement que la vidéo soit agréable à regarder.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+<br>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
+#### Alors, comment est ce que l'on fait pour avoir de belle couleur?
+Il y a deux moments importants pour atteindre un bon niveau de couleur. Avant le montage, donc lorsque l'on compter nos vidéos et photos, et durant le montage.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+Avant le montage peut souvent être un peu ignoré, car avec un bon logiciel, il est facile de corriger les erreurs qui ont occupé durant le tournage. Pour rendre le montage plus facile par contre, il est important d'avoir un bon éclairage. Durant le montage, est ou tout la magie se fait. Il est plutôt simple avec un peut de temps de faire en sorte que de belles couleurs vives dans nos vidéos. Il est aussi possible de faire les contraires et de rendre plus sombre, ou plus gris. Ce qu’est important est que les couleurs ne semblent pas irréel. Pour si faire, il y a plusieurs outils à notre disponibilité, on peut contrôler des aspects comme, le **white balance**, la **saturation**, **exposure**, le **contrast**, etc. Je ne vais pas aller trop en profondeur, car chaque logiciel a sa propre interface pour modifier les couleurs, et même s’il se ressemble tous un peu, il est plus simple pour vous de chercher ce qui vous convient sur le web. 
+
+<br>
+
+## Audio 
+Un audio de bonnes qualités va un long chemin vers un bon vidéo agréable à écouter. Il n’est vraiment pas plaisant lorsqu'on écoute un métrage dont l'audio est trop bas ou trop fort, quand l'audio **grince**, quand on entend tout ce qui se passe dans le fond, ou encore lorsqu'il y a un bruit blanc dérange. De plus, un bon audio de qualité est simple à atteindre, et est moins cher que ce que l'on pense. 
+
+Tout d'abord,
