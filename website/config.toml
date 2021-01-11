@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "http://examplesite.org"
 title = "Airspace | Creative Agency Hugo Template"
-theme = "airspace-hugo"
+theme = "mytheme"
 themesDir = "../.."
 # post pagination
 paginate = "4"
