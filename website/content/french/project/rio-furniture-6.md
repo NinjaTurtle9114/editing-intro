@@ -6,7 +6,7 @@ image : "images/portfolio/gpu_hardware.jpg"
 bg_image: "images/keyboard1.jpg"
 category: "Matériel"
 information:
-  - info: Pour être efficace et faire un bon travail, il est important d'utiliser les bons outils. Cela est pourquoi il est important de choisir un bon logiciel de montage vidéo, et d'avoir un ordinateur qui est capable de faire du montage rapidement, sur une bonne période de temps. Sur cette page, vous en apprendre plus sur quelques applications d'édition vidéo populaire, et sur les ordinateurs, afin de faire les meilleurs vidéos à un bon prix.
+  - text: Pour être efficace et faire un bon travail, il est important d'utiliser les bons outils. Cela est pourquoi il est important de choisir un bon logiciel de montage vidéo, et d'avoir un ordinateur qui est capable de faire du montage rapidement, sur une bonne période de temps. Sur cette page, vous en apprendre plus sur quelques applications d'édition vidéo populaire, et sur les ordinateurs, afin de faire les meilleurs vidéos à un bon prix.
 ---
 
 ## Logiciel de montage vidéo
