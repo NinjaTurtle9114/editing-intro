@@ -26,24 +26,21 @@ Final Cut Pro X (2011) est une expérience similaire à Premiere, qui par contre
 
 Tout ce qui est requis pour faire un excellent vidéo facilement est disponible sur l'application. Le logiciel est lui aussi très populaire, il est donc facile de trouver des ressources sur internet afin de faciliter la création, par exemple, des guides et des raccourcis. Le logiciel est extrêmement bien fait et optimiser, tout ce que vous avez besoin pour faire des vidéo pour YouTube, Instagram ou Facebook est facile d'accès. Final Cut et Premiere Pro sont deux expériences différentes, qui peuvent donner un résultat similaire, autant facilement.
 
-**3. Vegas Pro :** 
-
-
 **4. iMovie :**
 iMovie est un logiciel de montage vidéo gratuit fait par Apple. Par contre, l'application est seulement disponible sur les ordinateurs et appareils mobiles faits par Apple. Alors si vous voulez un bon logiciel gratuit, et que vous utiliser multiples appareils Apple, iMovie est parfait pour vous. Il est très bien optimisé pour Mac OS et fonctionne aussi sur des appareils mobiles, mais est plus limité. Pour un logiciel de débutant gratuit, iMovie offre un très bon service qui permet de bonnes vidéos faciles à faire. Bien sûr une application gratuite va être moins bonne que payante, mais si vous êtes si un budget et utiliser Apple, iMovie est fait pour vous. 
 
 Sureprenament, iMovie est simple d'utilisation, et donne des résultats impressionnants en termes d'audio et de vidéo. Il est simple de faire de la correction de couleur, et avoir une qualité audio remarquable. L'application vient directement installer sur Mac, et permet de faire d'excellent vidéo peut importe votre expérience. 
 
 **5 DaVinci Resolve :**
-DaVinci Resolve est 
+DaVinci Resolve 17 est un excellent logiciel de montage vidéo gratuit, disponible de Windows, MaC et Linux. DaVinci Resolve permet de l'édition de très haute qualité, avec accès à une grande parti des fonction avec la version gratuit, avec un interface simple, Davinci Resolve est un excellent choix de logiciel de montage vidéo sur n'importe quel platforme. 
+
+L'appication est particulièrement recconue pour une correction de couleur exceptionel, une production d'audio de haute qualité, avec une simplicité d'utilisation qui permet des travaux d'équipe facilement. Tout cela sur une application que peut etre complètement gratuite, fait en sorte que Resolve est une des meilleurs application gratuit pour l'édition vidéo. 
 
 <br>
 
-Il y a multiple autres logiciel de montage vidéo payant et gratuit, pour plus en apprendre sur les application d'etition vidéo les plus populaires, [*https://www.creativebloq.com/features/best-video-editing-software-for-designers*](https://www.creativebloq.com/features/best-video-editing-software-for-designers).
+Il y a multiple autre logiciel de montage vidéo payant et gratuit, pour plus en apprendre sur les applications d'étions vidéo le plus populaire, [***Visiter Creativeblog.com***](https://www.creativebloq.com/features/best-video-editing-software-for-designers).
 
+<br>
 
-
-
-
-
+## Ordinateur De Montage Vidéo 
 
