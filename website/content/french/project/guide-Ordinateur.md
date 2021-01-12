@@ -50,4 +50,13 @@ Il y a multiple autre logiciel de montage vidéo payant et gratuit, pour plus en
 <br>
 
 ## Ordinateur De Montage Vidéo 
+Pour être capable de faire une vidéo sans trop de complication avec le matériel informatique, il est nécessaire d'avoir un ordinateur qui est capable de faire la tache. Bien sur, il est possible de faire du montage sur un vieille ordinateur, mais cela risque de prend une énorme quantité de temps pour importer et exporter les *clips* dans votre logiciel. Aussi, il n'est pas requi d'avoir une ordinateur à plus de 1000$ pour faire des bonnes vidéos. 
 
+Pour mieux comprendre l'effect d'un ordinateur sur les temps de traitement, voici un tableau **add here** qui montre des test avec deux ordinateurs très différents. L'un est un Laptop Mac, et l'autre est une toure  PC. Les deux font du traitement sur une vidéo 3D de différentest tailles et durées, afin de voir la différence entre le vitesse de traitement.
+
+*mettre tableau*
+
+#### Donc Quoi Acheter?
+Pour savoir quoi acheter, cela dépend de ce que vous voulez, et de votre budget. Si vous êtes souvent entrain de vous déplacer, il serait surement préférable d'acheter un appareil portable. Pour le montage vidéo sur un *laptop*, Apple est très populaire, un ordinateur comme le MacBook Pro est un excellent choix, mais très cher. Le problème avec les ordinateurs portables est qui si vous voulez quelque chose de performant, pour le dire d'une façon gentille, disons que vous devez être prêt à ouvrir votre porte-feuille. De plus, il est souvent difficile d'utiliser l'ordinateur sur le long période à cause de la charge, et la durée de vie d'un *laptop* est plutôt courte. Si vous tenez vraiment compte à avoir un *laptop*, je recommande le [*Dell G5 15 SE*](https://www.amazon.ca/s?k=newest+dell+g5+se+5505+15+6+fhd+ips+high+performance+gaming+laptop+amd+4th+gen+ryzen+5+4600h+6+core+8gb+ram+256gb+pcie+ssd+backlit+keyboard+amd+radeon+rx+5600m+windows+10&ascsubtag=laptopmag-ca-7048535489516839000-20&geniuslink=true&tag=georiot-ca-default-20). Avec un prix plus réaliste pour un débutant, l'ordinateur offre de bonnes qualités.  
+
+Pour les débutants qui son plus intéresser à avoir un ordinateur plus imobile, 

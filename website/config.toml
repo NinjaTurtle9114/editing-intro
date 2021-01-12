@@ -180,12 +180,12 @@ weight = 3
 
 # footer menu
 [[Languages.en.menu.footer]]
-name = "About"
+name = "A Propos De Moi"
 URL = "about"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "Project"
+name = "Projet"
 URL = "project"
 weight = 2
 

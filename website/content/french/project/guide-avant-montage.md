@@ -6,18 +6,7 @@ image : "images/portfolio/mouse.png"
 bg_image: "images/keyboard1.jpg"
 category: "Montage"
 information: 
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - texte: Une bonne organisation mène à un bon travail efficace. Une bonne planification rapide, qui permet de bien comprendre ce que l'on va faire, et pour se former des idées, est extrêmement utile dans le montage vidéo. Lorsque l'on connait déjà ce que l'on va affronter, nous avons un avantage. Bien sûr le montage vidéo n'est pas la guerre, mais une préparation est très pratique.
 ---
  Afin d'avoir une bonne vidéo, il est très important de se préparer avant même que le montage soit commencé. Voici quelques étapes que je recommande de faire avant.
 
