@@ -641,3 +641,16 @@ input[type="tel"] {
   width: 75%;
 
 }
+
+.my-row {
+  display: flex;
+}
+
+.my-row img {
+    width: 100%;
+}
+
+.my-column {
+  flex: 50%;
+  padding: 5px;
+}
