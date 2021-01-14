@@ -14,12 +14,14 @@ Tout d'abord, je dois être honnête le montage vidéo peut être très couteux.
 
 Alors, voici une liste de plusieurs logiciel populaire pour le montage vidéo recommander. Les logiciels ne sont pas placer dans une ordre particulier, je ne fait que les présenter et expliquer pourquoi ils sont populaire.
 
-<br>
- <div class="w3-container">
-  <p>The w3-container class is an important w3.CSS class.</p>
-</div> 
-<img src="/images/portfolio/premiere_logo.png" alt="Premiere Pro" class="smol">
-<img src="/images/portfolio/final_cut_x.png" alt="Final Cut Pro X" class="smol">
+<div class="my-row">
+    <div class="my-column">
+        <img src="/images/portfolio/premiere_logo.png" alt="Premiere Pro">
+    </div>
+    <div class="my-column">
+        <img src="/images/portfolio/final_cut_x.png" alt="Final Cut Pro X">
+    </div>
+</div>
 
 **1. Premiere Pro :**
 *Premiere Pro* est un logiciel fait par *Adobe*, une compagnie très reconnue dans l'édition et la réalisation de films. *Premiere* est une application payante qui est plutôt dispendieuse, surtout à long terme. Il est aussi possible d'avoir des "packs" qui contiennent d'autres applications qui peuvent être utiles, comme *Photoshop* et *After Effects*.
