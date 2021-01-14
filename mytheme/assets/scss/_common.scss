@@ -647,10 +647,11 @@ input[type="tel"] {
 }
 
 .my-row img {
-    width: 100%;
+    width: 50px;
+    height: 50px;
 }
 
 .my-column {
-  flex: 50%;
+  flex: 25%;
   padding: 5px;
 }
