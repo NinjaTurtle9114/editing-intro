@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://ninjaturtle9114.github.io/editing-intro"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Simon Parent | Introduction au montage vidéo"
 theme = "mytheme"
 themesDir = "../"
 # post pagination
@@ -166,7 +166,7 @@ copyright = "Copyright &copy; 2020 **Simon Parent** "
 # main menu
 [[Languages.en.menu.main]]
 name = "Acceuil"
-URL = "/"
+URL = ""
 weight = 1
 
 [[Languages.en.menu.main]]

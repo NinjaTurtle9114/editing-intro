@@ -30,17 +30,17 @@ La *Frame Rate*, aussi appelé *Refresh rate*, est comme le dit le nom, la fréq
 **5. Transition :** 
 Les *transitions* sont une partie essentielle à une bonne vidéo. Les transitions permettent de faire avancer l'histoire d'une vidéo avec un bon rythme, et de garder l'attention des spectateurs.
 
-Il y a plusieurs types de transition, par exemple, des transitions simple comme des *Jump cut*, des *L-Cut* et *J-Cut* ou encore simplement un *Fade out*. Toutes ces transitions permettent de jouer avec l'audio et le vidéo, afin de faire avancer l'histoire facilement. On peut aussi avoir des transitions plus avancées, par l'utilisation d'effets spéciaux, comme des écrans verts. [***Plus sur les transitions***](/project/guide-transition/).
+Il y a plusieurs types de transition, par exemple, des transitions simple comme des *Jump cut*, des *L-Cut* et *J-Cut* ou encore simplement un *Fade out*. Toutes ces transitions permettent de jouer avec l'audio et le vidéo, afin de faire avancer l'histoire facilement. On peut aussi avoir des transitions plus avancées, par l'utilisation d'effets spéciaux, comme des écrans verts. [***Plus sur les transitions***](/editing-intro/project/guide-transition/).
 
 **6. Correction de Couleur :** 
 La couleur est extrêmement importante dans toute forme de cinématographie. Avec de bonnes couleurs au bon moment, l'audience peut relier les couleurs avec certaines émotions. Alors, avec les couleurs, il est possible de faire une belle vidéo, qui fait ressentir une multitude d'émotions aux spectateurs. 
 
-La correction de couleur est donc obligatoire pour avoir une bonne vidéo, ce qui est le principe d'ajuster les couleurs durant le montage. [***Plus sur les couleurs***](/fr/project/rio-furniture-5/).
+La correction de couleur est donc obligatoire pour avoir une bonne vidéo, ce qui est le principe d'ajuster les couleurs durant le montage. [***Plus sur les couleurs***](/editing-intro/project/guide-audio/).
 
 **7. Compression vidéo :** 
 La compression vidéo est le processus que fait un ordinateur afin de réduire la quantité d'information dans une vidéo. Le principe est de transformer une suite de *bits* "x" en des *bits* "y", qui des bits qui serait plus courts ne même temps qu'ils contiennent les mêmes informations. 
 
-La compression permet donc de faire en sorte que publier une vidéo prend moins de temps, les ficher prend moins d'espace. Cela vient au cout du temps que les fichiers prennent à se compresser. Il est souvent recommandé de compresser les ficher pour rendre le montage plus simple, mais il ce n'est pas obligatoire. [***Plus sur la compression et les ordinateurs***](/projet/guide-ordinateur/).
+La compression permet donc de faire en sorte que publier une vidéo prend moins de temps, les ficher prend moins d'espace. Cela vient au cout du temps que les fichiers prennent à se compresser. Il est souvent recommandé de compresser les ficher pour rendre le montage plus simple, mais il ce n'est pas obligatoire. [***Plus sur la compression et les ordinateurs***](/editing-intro/project/guide-ordinateur/).
 
 **8. Bit rate/data Rate :**
 Le *bit rate* ou le débit binaire en français, est une mesure de la quantité de donner (information) transmise par unité de temps. Donc, des données numériques transîmes chaque "x" unités de temps. Les unités les plus communes sont des kilobits par seconde (kbps).
@@ -53,7 +53,7 @@ Le *B-roll* et le *A-roll* sont deux transitions très utiles. Le *A-roll* est "
 Pour essaye de bien expliquer, disons que quelqu'un parle des abeilles. Le *A-roll* pourrait être la personne qui explique quelque chose, et une fois de temps en temps, il y a une transition vers le *B-roll* qui montre des abeilles, afin de montre de quoi on parle. Bien sûr il y a plusieurs formes différentes de *B-rolls*, ceux-ci peuvent être durant la vidéo ou encore après, mais le principe reste le même. [***Une excellente explication***](https://www.youtube.com/watch?v=vVdHxadCuNM).
 
 **10 Effets spéciaux :**
-Des effets spéciaux sont des techniques lors du montage d'une vidéo ou d'un film qui ont comme but de montrer quelque chose qui n'est pas vraiment là. Ce sont des illusions et des effets pour changer l'arrière-plan, ou ajouter des caractéristiques à un personnage, ou même enlever quelque chose totalement. Des animations dans certain vidéo pourrait aussi être considéré comme des effets spéciaux, comme des films qui utilise du "*CJI*" afin de créer des personnages qui ne sont pas vraiment la. 
+Des effets spéciaux sont des techniques lors du montage d'une vidéo ou d'un film qui ont comme but de montrer quelque chose qui n'est pas vraiment là. Ce sont des illusions et des effets pour changer l'arrière-plan, ou ajouter des caractéristiques à un personnage, ou même enlever quelque chose totalement. Des animations dans certain vidéo pourrait aussi être considéré comme des effets spéciaux, comme des films qui utilise du " *CJI* " afin de créer des personnages qui ne sont pas vraiment la. 
 
 Afin de faire en sorte que les effets spéciaux semblent réels, on utilise souvent des écrans verts, qui son des murs d'une seule couleur (souvent vert), pour rendre l'intégration de quelque chose qui n'ai pas vraiment la, semble réelle.
 
