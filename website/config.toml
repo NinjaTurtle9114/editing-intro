@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://ninjaturtle9114.github.io/projet-personnel "
+baseURL = "https://ninjaturtle9114.github.io/editing-intro"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "mytheme"
 themesDir = "../"
