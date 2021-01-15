@@ -1,8 +1,8 @@
 ################################# Default configuration ###################
-baseURL = "http://examplesite.org"
+baseURL = "https://NinjaTurtle9114.github.io/projet-personnel "
 title = "Airspace | Creative Agency Hugo Template"
 theme = "mytheme"
-themesDir = "../.."
+themesDir = "../"
 # post pagination
 paginate = "4"
 # post excerpt
@@ -11,6 +11,7 @@ summaryLength = "30"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = "Fr"
+publishDir = "pp"
 
 ################################# Outputs #################################
 # hugo outputs
