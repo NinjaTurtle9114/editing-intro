@@ -16,19 +16,19 @@ Alors, voici une liste de plusieurs logiciel populaire pour le montage vidéo re
 
 <div class="my-row">
     <div class="my-column">
-        <img src="/images/portfolio/premiere_logo.png" alt="Premiere Pro">
+        <img src="/editing-intro/images/portfolio/premiere_logo.png" alt="Premiere Pro">
     </div>
     <div class="my-column">
-        <img src="/images/portfolio/final_cut_x.png" alt="Final Cut Pro X">
+        <img src="/editing-intro/images/portfolio/final_cut_x.png" alt="Final Cut Pro X">
     </div>
     <div class="my-column">
-        <image src="/images/portfolio/imovie.png" alt="Imovie"> 
+        <image src="/editing-intro/images/portfolio/imovie.png" alt="Imovie"> 
     </div>
     <div class="my-column">
-        <image src="/images/portfolio/davinci_resolve.png" alt="DaVinci Resolve">
+        <image src="/editing-intro/images/portfolio/davinci_resolve.png" alt="DaVinci Resolve">
     </div>
     <div class="my-column">
-        <image src="/images/portfolio/vegas_pro.png" alt="Vegas Pro">
+        <image src="/editing-intro/images/portfolio/vegas_pro.png" alt="Vegas Pro">
     </div>
 </div>
 

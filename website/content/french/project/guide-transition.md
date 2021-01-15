@@ -23,10 +23,13 @@ Il faut toujours essaye d'expliquer avec l'audio et les vidéos, afin d'être ce
 
 #### Transitions simple
 Afin d'avoir d'excellentes transitions, il n'est vraiment pas requis de passer des heures et des heures. Une majorité de transitions dans vos vidéos devrait prendre seulement quelques secondes à faire, il faut simplement savoir quoi faire. Alors, voici quelques transitions simples qui sont très pratiques à utiliser dans n'importe quel vidéo.
+
 1. *J-cut* : Transition ou l'audio d'une scène suivant, embarque sur la vidéo de la scène précédente. Donc une nouvelle vidéo avec le même audio.
 2. *L-cuts* : Contraire de *J-cut*. Une transition ou la vidéo suivante, embarque sur l'audio précédente. Alors, la même vidéo qui change d'audio.
 3. *Fade in/out* : Transition ou la couleur d'une scène devient graduellement une seule couleur. Alors une vidéo qui devient de complètement noire a une image, ou d'une image à complètement noire.
 4. Un *zoom* : L'effet de *zoom* permet de faire des transitions stylisées, ou l'on *zoom* sur un abject ou un personnage, afin de changer de scène.
-5. 
+5. *Brouillage (blur)* : Transition qui permet de brouiller l'image pour ensuite changer à une autre scène, l'audio peut être affecté ou rester le même.
 
-Pour conclure, l'important des transitions est de les garder simples, dépenser pas trop de temps à les faire, mais ne les ignorer pas. Essaye le plus possible de les garder subtiles afin qu’elle semble naturelle. Alors, garder vos transitions un peu consistantes, il n'est pas nécessaire de changer de type de transition à chaque scène.
+Ceci sont que quelque idées. Il est important de faire sa recherche pour trouver et être capable de faire ce qui vous plait. Il y a une infinité de transitions, l'important est d'être capable d'utiliser sa créativité afin de trouver les meilleures méthodes, qui vont donner les meilleurs résultats. Il est aussi important de ne pas aller trop loin et de rester simple, les transitions que j'ai nommées sont extrêmement simples, mais si bien performées, vous aurez l'aire d'un vrai professionnel.
+
+Pour conclure, l'important des transitions est de les garder simples, dépenser pas trop de temps à les faire, mais ne les ignorer pas. Essaye le plus possible de les garder subtiles afin qu’elle semble naturelle. Alors, garder vos transitions un peu consistantes, il n'est pas nécessaire de changer de type de transition à chaque scène, même que cela à l'air fou.

@@ -26,4 +26,4 @@ Le procéder faire une vidéo devrait ressembler à, faire un plan, faire une *t
 
 <br>
 
-<img src="/images/draft/timeline3.jpg" alt="Timeline" class="larger"> 
+<img src="/editing-intro/images/draft/timeline3.jpg" alt="Timeline" class="larger"> 
