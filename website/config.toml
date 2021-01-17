@@ -90,13 +90,11 @@ logo = "images/logo_3.svg"
 logo_width = "65px"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Simon Parent"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "North Main Street,Brooklyn Australia"
+email = "simon.parent@beon.ca"
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/f/xnqowadr"
 # Google Analitycs
 google_analitycs_id = "" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
