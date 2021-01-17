@@ -2,7 +2,7 @@
 title: "Termes communs"
 description: "Plusieurs termes importants sur l'édition vidéo"
 draft: false
-image : "images/portfolio/work3.jpg"
+image : "images/portfolio/word_cloud.png"
 bg_image: "images/keyboard1.jpg"
 category: "Montage"
 information:
@@ -26,6 +26,8 @@ La définition d'écran est la hauteur et la largeur d'une vidéo. Les dimension
 
 **4. Frame Rate (Fréquence d'images) :** 
 La *Frame Rate*, aussi appelé *Refresh rate*, est comme le dit le nom, la fréquence à laquelle un affichage montre un nombre d'images chaque seconde. Donc 30 Fps (frames par sedonde) veulent dire que la vidéo montre 30 fois une image chaque seconde. Des fréquences communes sont 30, 60, 90, 120, 240 et l'affichage peut également être nommé en Hertz. Alors, plus le nombre d'images par seconde est élevé, plus la vidéo parait fluide.
+
+<img src="https://dl4ih61pxf6wa.cloudfront.net/wp-content/uploads/2016/04/03150729/Frame-rates-300x235.jpg" alt="Frame Rate" class="secondary">
 
 **5. Transition :** 
 Les *transitions* sont une partie essentielle à une bonne vidéo. Les transitions permettent de faire avancer l'histoire d'une vidéo avec un bon rythme, et de garder l'attention des spectateurs.
