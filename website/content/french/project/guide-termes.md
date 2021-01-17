@@ -49,6 +49,8 @@ Le *bit rate* ou le débit binaire en français, est une mesure de la quantité 
 
 Par exemple, une vidéo 4k est environ 15 à 18 Mb/s. Pour regarder un film en 4k sans le télécharger, cela prend 16 000 bits à chaque seconde. [*Akamai Technologies*](https://www.akamai.com/), une compagnie américain, qui en résumé vend des serveurs à des compagnies pour permettre d'avoir du contenue en ligne. Durant le mois d'avril 2020, *Akamai* ont eu du trafic de 167 Tb/s sur leurs serveurs. Pour visualiser, cela équivaut 13 360 000 000 000 000 bits, donc chaque seconde du mois d'avril, 167 térabits de donnée étaient utilisés. 
 
+<img src="https://www.headphonesty.com/wp-content/uploads/2019/07/SAMPLES-1100x523.jpg" alt="Frame Rate" class="secondary">
+
 **9. A-Roll/B-Roll :**
 Le *B-roll* et le *A-roll* sont deux transitions très utiles. Le *A-roll* est "le plan principal", la ou il aurait une personne qui parle et explique quelque chose, et ensuite le B-roll est plus le contenu secondaire. Pour un *B-roll*, on ne verrait plus la personne qui parle, mais plutôt du contenu supplémentaire de ce qui est montré dans le vidéo.
 
