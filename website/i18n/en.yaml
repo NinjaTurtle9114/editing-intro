@@ -13,7 +13,7 @@
 - id: submit
   translation: Envoyer Moi Un Message
 - id: all
-  translation: All
+  translation: Tout
 - id: posted_by
   translation: Posted By
 - id: read_more

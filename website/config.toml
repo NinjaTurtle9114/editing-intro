@@ -163,7 +163,7 @@ copyright = "Copyright &copy; 2020 **Simon Parent** "
 ######################### english navigation #############################
 # main menu
 [[Languages.en.menu.main]]
-name = "Acceuil"
+name = "Accueuil"
 URL = ""
 weight = 1
 
