@@ -19,7 +19,7 @@ Tout ce que l'on fait avant le montage n'est pas obligatoire à faire, mais il r
 Ce qui est important dans une vidéo est d'être capable de toucher les émotions des spectateurs avec soit une histoire, le rythme, les images, l'audio, etc. Il est donc très important de pas seulement connaitre notre contenu vidéo, mais aussi être content de ce que l'on a fait, et être capable de s'y attacher. En étant fiers de ce que vous faites, vous aller créer quelque chose de meilleure qualité et en retirer bien plus. Lorsque nous avons du plaisir lors de l'apprentissage, nous retenons bien plus d'information. Ce qui permet aussi un meilleur développement de la créativité.
 
 <br>
-<img src="/editing-intro/images/draft/timeline3.jpg" alt="Timeline" class="secondary"> 
+<img src="/editing-intro/images/portfolio/timeline3.jpg" alt="Timeline" class="secondary"> 
 <br>
 
 Donc, une fois que tout a été trié, visionné et revisionné, il est temps de commencer à faire le montage vidéo. Grâce à toute la préparation, vous avez surement une bonne idée de quoi ressemblera le produit. Alors soit vous commencer et vous changer au fur et à mesure que vous faite le montage, soit vous fait un brouillon d'idée rapide pour être sur et certain de quoi vous allez faire. Tout cela dépend du temps que vous allez investir dans votre montage, mais si vous faites que commencer, je recommande de prendre votre temps et de chercher sur Internet ce que vous ne savez pas. Faire une vidéo n'est pas linéaire, chaque personne a sa propre façon de faire de l'édition vidéo. L'importance est que vous avez du plaisir, et de prendre des pauses, afin de se rafraichir les idées.

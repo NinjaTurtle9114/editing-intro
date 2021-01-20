@@ -1,6 +1,6 @@
 ---
 title: "Transitions"
-description: "Comment faire un vidéo avec une bonne chronologie"
+description: "Comment faire une vidéo avec une bonne chronologie"
 draft: false
 image : "images/portfolio/transition_timeline.jpg"
 bg_image: "images/keyboard1.jpg"

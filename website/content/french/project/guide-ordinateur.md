@@ -2,7 +2,7 @@
 title: "Ordinateur et logiciel de montage vidéo"
 description: "Recommandation sur quoi utiliser"
 draft: false
-image : "images/portfolio/gpu_hardware.jpg"
+image : "images/portfolio/gpu.jpg"
 bg_image: "images/keyboard1.jpg"
 category: "Matériel"
 information:
@@ -75,3 +75,5 @@ Pour les débutants qui sont plus intéressés à avoir un ordinateur moins mobi
 Si vous voulez faire votre propre ordinateur, encore, tout dépend de votre budget. Il est recommandé d'avoir une carte graphique pas trop mauvaise, soit de *AMD* ou *NVIDIA*, il est surtout important d'avoir au moins 2GB de mémoire. Avoir un processeur *Ryzen 5* ou *7*, dépendamment de votre prix. Au minimum avoir 8GB de *RAM*, mais le plus, le meilleur. Finalement, il est toujours préférable d'avoir une grande quantité d'espace disque, donc avoir au minimum environ 250GB en *SSD* (*solid-state drive*), pour être plus rapide. Il est toujours facile d'ajouter du stockage avec des disques durs externes. 
 
 Il est important de se rappeler que vous ne devez pas dépenser des centaines et des centaines de dollars en temps que débutant. Essaye de trouver quelque chose de raisonnable, qui semble combler vos intérêts. Le problème est que si vous voulez faire cela au moment d'écriture, il est difficile voir impossible de sa faire un ordinateur pas cher et rapidement.
+
+<img src="/editing-intro/images/portfolio/gpu2.jpg" alt="GPU" class="larger">
